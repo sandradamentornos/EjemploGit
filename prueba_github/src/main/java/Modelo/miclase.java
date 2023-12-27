@@ -11,9 +11,12 @@ public class miclase implements Interfaz {
 		// TODO Auto-generated method stub
 		
 		int mientero= 5;
+
 		int otroentero=mientero-3;
 		int resultado = otroentero;
 		
+
+
 		
 		return resultado;
 	}
